@@ -1,1 +1,1 @@
-All leetCode and other solutions
+All LeetCode and other solutions
