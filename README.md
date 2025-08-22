@@ -1,1 +1,1 @@
-All LeetCode and other solutions
+All LeetCode and HackerRank other solutions
